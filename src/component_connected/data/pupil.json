@@ -1,0 +1,42 @@
+[
+    {   
+        "id":1,
+        "first_name": "siwar",
+        "last_name": "siwar",
+        "email": "siwar@gmail.com",
+        "password": "123",
+        "phonenumber":22222222
+    }, 
+    {   
+        "id":1,
+        "first_name": "siwar",
+        "last_name": "siwar",
+        "email": "siwar@gmail.com",
+        "password": "123",
+        "phonenumber":22222222
+    }, 
+    {   
+        "id":1,
+        "first_name": "siwar",
+        "last_name": "siwar",
+        "email": "siwar@gmail.com",
+        "password": "123",
+        "phonenumber":22222222
+    }, 
+    {   
+        "id":1,
+        "first_name": "siwar",
+        "last_name": "siwar",
+        "email": "siwar@gmail.com",
+        "password": "123",
+        "phonenumber":22222222
+    }, 
+    {   
+        "id":1,
+        "first_name": "siwar",
+        "last_name": "siwar",
+        "email": "siwar@gmail.com",
+        "password": "123",
+        "phonenumber":22222222
+    }
+]
